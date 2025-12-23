@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd zadanie1
 docker build -t zadanie1_adapter .
 cd ..
